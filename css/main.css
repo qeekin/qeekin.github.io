@@ -1771,7 +1771,7 @@ strong,
 
 /* 2.2.10 Thank you section  /.section.thank-you */
 .section.thank-you {
-  background: url("../img/texture_thankyou.png"), black;
+  background: black;
   background-repeat: repeat;
   background-attachment: fixed; }
 
