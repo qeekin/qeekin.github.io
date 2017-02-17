@@ -118,13 +118,13 @@
 	text-transform: none;
 }
 .cover .title h2 .high {
-	font-family: "Roboto" ;
+	font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
     font-weight: 600;
 }
 .feature .f-grid .desc h3 ,
 .circle-graph .center-illustr .item h3 ,
 .small.feature .text h2.title {
-    font-family: "Roboto" ;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
 /*    font-weight: 100;*/
 	text-transform: none;
 }
@@ -135,7 +135,7 @@
 .price-list-table .item .wrapper .price ,
 .price-list-table .item .wrapper h3 ,
 .grid-items ul li .text-wrapper h3{
-	font-family: "Roboto" ;
+	font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
     font-weight: 600;
 	text-transform: none;
 }
@@ -145,14 +145,14 @@
 .circle-graph .center-illustr .item h3,
 .how-list .small.feature .text h2.title  ,
 .feature .text h3.subtitle.alt {
-	font-family: "Roboto" ;
+	font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
     font-weight: 300;
 	text-transform: none;
 }
 .small.feature-quote .text h2.title  ,
 .contact .subtitle {
 	text-transform: uppercase;
-	font-family: "Roboto" ;
+	font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
     font-weight: 600;
 }
 .small.feature-quote .text h2.title .left-s {
@@ -161,7 +161,7 @@
 }
 
 .small.feature-quote .text h3.subtitle {
-	font-family: "Roboto" ;
+	font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
     font-weight: 100;
 	text-transform: none;
 }
