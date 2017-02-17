@@ -106,7 +106,7 @@
 
 .cover.small .title h2 ,
 .small.feature .text h2.title.big {
-	font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
+	font-family: "Montserrat", "cwTeXYen" ;
 	font-weight: 100;
 }
 
@@ -118,13 +118,12 @@
 	text-transform: none;
 }
 .cover .title h2 .high {
-	font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
-    font-weight: 600;
+    font-weight: 700;
 }
 .feature .f-grid .desc h3 ,
 .circle-graph .center-illustr .item h3 ,
 .small.feature .text h2.title {
-    font-family: "Open Sans", Helvetica, Verdana, Tahoma, "PingFang TC", "Lantinghei TC", "微軟正黑體", "Microsoft JhengHei", sans-serif !important;
+    font-family: "Montserrat", "cwTeXYen" ;
 /*    font-weight: 100;*/
 	text-transform: none;
 }

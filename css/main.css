@@ -509,7 +509,7 @@ strong,
       font-size: 8rem;
       max-width: 640px;
       margin-top: 0;
-      line-height: 0.85;
+      line-height: 1;
       position: relative; }
       .cover .title h2 .top-s {
       	font-family: "cwTeXYen"; /* added by Dennis Chang */
@@ -2248,8 +2248,7 @@ strong,
 /* 3. footer /.footer */
 .footer {
   position: relative;
-  background: #F9F9F9;
-  border-top: 1px #E5E5E5 solid;
+  background: #15151f;
   text-align: center;
   padding: 24px 64px 32px 64px;
   margin-bottom: 40px; }
